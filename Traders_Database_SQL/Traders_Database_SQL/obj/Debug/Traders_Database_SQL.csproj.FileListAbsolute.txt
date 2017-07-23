@@ -1,0 +1,9 @@
+C:\Users\armst\Desktop\C# Programs\Forms\Traders_Database_SQL\Traders_Database_SQL\bin\Debug\Traders_Database_SQL.exe.config
+C:\Users\armst\Desktop\C# Programs\Forms\Traders_Database_SQL\Traders_Database_SQL\bin\Debug\Traders_Database_SQL.exe
+C:\Users\armst\Desktop\C# Programs\Forms\Traders_Database_SQL\Traders_Database_SQL\bin\Debug\Traders_Database_SQL.pdb
+C:\Users\armst\Desktop\C# Programs\Forms\Traders_Database_SQL\Traders_Database_SQL\obj\Debug\Traders_Database_SQL.csprojResolveAssemblyReference.cache
+C:\Users\armst\Desktop\C# Programs\Forms\Traders_Database_SQL\Traders_Database_SQL\obj\Debug\Traders_Database_SQL.frmCustomers.resources
+C:\Users\armst\Desktop\C# Programs\Forms\Traders_Database_SQL\Traders_Database_SQL\obj\Debug\Traders_Database_SQL.Properties.Resources.resources
+C:\Users\armst\Desktop\C# Programs\Forms\Traders_Database_SQL\Traders_Database_SQL\obj\Debug\Traders_Database_SQL.csproj.GenerateResource.Cache
+C:\Users\armst\Desktop\C# Programs\Forms\Traders_Database_SQL\Traders_Database_SQL\obj\Debug\Traders_Database_SQL.exe
+C:\Users\armst\Desktop\C# Programs\Forms\Traders_Database_SQL\Traders_Database_SQL\obj\Debug\Traders_Database_SQL.pdb
