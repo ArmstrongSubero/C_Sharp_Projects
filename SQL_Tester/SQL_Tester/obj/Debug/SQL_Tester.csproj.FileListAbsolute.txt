@@ -1,0 +1,9 @@
+C:\Users\armst\Desktop\C# Programs\Forms\SQL_Tester\SQL_Tester\bin\Debug\SQL_Tester.exe.config
+C:\Users\armst\Desktop\C# Programs\Forms\SQL_Tester\SQL_Tester\bin\Debug\SQL_Tester.exe
+C:\Users\armst\Desktop\C# Programs\Forms\SQL_Tester\SQL_Tester\bin\Debug\SQL_Tester.pdb
+C:\Users\armst\Desktop\C# Programs\Forms\SQL_Tester\SQL_Tester\obj\Debug\SQL_Tester.csprojResolveAssemblyReference.cache
+C:\Users\armst\Desktop\C# Programs\Forms\SQL_Tester\SQL_Tester\obj\Debug\SQL_Tester.frmSqlTester.resources
+C:\Users\armst\Desktop\C# Programs\Forms\SQL_Tester\SQL_Tester\obj\Debug\SQL_Tester.Properties.Resources.resources
+C:\Users\armst\Desktop\C# Programs\Forms\SQL_Tester\SQL_Tester\obj\Debug\SQL_Tester.csproj.GenerateResource.Cache
+C:\Users\armst\Desktop\C# Programs\Forms\SQL_Tester\SQL_Tester\obj\Debug\SQL_Tester.exe
+C:\Users\armst\Desktop\C# Programs\Forms\SQL_Tester\SQL_Tester\obj\Debug\SQL_Tester.pdb
